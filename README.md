@@ -1,6 +1,7 @@
 # Wildfire AI
 
 ## Introduction
+
 The project aims to detect wildfires from users both in real-time and by uploading images to the website. The project uses one model for object detection and object localization and one model for image recognition. The models are trained on a dataset containing forest fires and non fire images. The goal of the project is to use drones and monitoring stations to identify areas affected by wildfires and alert relevant authorities.
 
 ## Table of contents
@@ -34,6 +35,8 @@ The object detection model is a <b>Faster R-CNN</b>, which stands for Region-bas
 ### Note
 
 If you would like to re train/ checkout how we train the models you can find them in <b>research branch</b>
+
+This fork has been modify front end from the original.
 
 
 ## Contribution

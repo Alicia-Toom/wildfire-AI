@@ -36,7 +36,7 @@ The object detection model is a <b>Faster R-CNN</b>, which stands for Region-bas
 
 If you would like to re train/ checkout how we train the models you can find them in <b>research branch</b>
 
-This fork has been modify front end from the original and there will be continous research on the models.
+This fork has been </b>modify</b> front end from the original and there will be <b>continous research</b> on the models in research branch.
 
 
 ## Contribution

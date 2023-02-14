@@ -17,7 +17,7 @@ The image recognition model is built using a <b>Convolutional Neural Network (CN
 The object detection model is a <b>Faster R-CNN</b>, which stands for Region-based Convolutional Neural Network. The model <b>Faster R-CNN</b> is capable of localizing fire and smoke in an image and generating bounding boxes around these features. This allows the system to quickly identify areas affected by wildfire, improving the speed and accuracy of response efforts. In the context of this project, the Faster R-CNN is used to identify fires and smoke in an image and to draw bounding boxes around these features, allowing the system to quickly identify areas affected by wildfire and to improve the speed and accuracy of response efforts.
 
 
-## Usage - Get started
+## Usage - Getting started
 1. Fork the project
 2. To get full dataset please contact any contributor or try your own dataset.
 3. The classification model is in the repository, but for object detection, you will to upload by yourself as it is too big for github. You can also contact any contributor for object detection model or train yourself in the research branch.
